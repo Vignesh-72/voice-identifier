@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-background text-slate-800 antialiased;
+  }
+}
+
+/* Smooth visualizer transitions */
+.bar-transition {
+  transition: height 100ms ease-in-out;
+}
