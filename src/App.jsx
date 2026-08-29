@@ -173,7 +173,7 @@ const About = () => (
         <p className="text-sm font-mono text-[#373a36]/70 mb-6">VOICE IDENTIFICATION SYSTEM </p>
         <div className="w-full bg-[#d0cdc8] rounded-xl p-6 border border-[#b8b5b0] text-left mb-6 shadow-inner">
            <p className="text-[#373a36] text-sm leading-relaxed mb-4">This application serves as a demonstration of browser-based voice identification system. It captures audio frequencies, creates a unique voiceprint, and compares them using Euclidean distance algorithms to verify identity.</p>
-           <div className="border-t border-[#373a36]/10 pt-4 mt-4"><p className="text-xs font-bold text-[#373a36]/50 uppercase tracking-widest mb-1">Developer</p><p className="text-lg font-bold text-[#373a36]">Umar Farooq V H</p></div>
+           <div className="border-t border-[#373a36]/10 pt-4 mt-4"><p className="text-xs font-bold text-[#373a36]/50 uppercase tracking-widest mb-1">Developer</p><p className="text-lg font-bold text-[#373a36]">Vignesh S</p></div>
         </div>
         <a href="https://github.com/farooq-25/voice-identifier" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 px-6 py-3 bg-[#373a36] text-[#e6e2dd] rounded-xl font-bold text-xs tracking-widest hover:bg-black transition-colors shadow-lg"><Icons.Github className="w-5 h-5"/> VIEW REPOSITORY</a>
      </div>
